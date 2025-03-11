@@ -25,7 +25,7 @@ PROJECT_ROOT = BASE_DIR
 SECRET_KEY = 'ABC1234' #TODO Changeme
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 # Application definition
 
