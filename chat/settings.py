@@ -176,3 +176,4 @@ try:
     from local_settings import *
 except ImportError:
     pass
+SESSION_COOKIE_SECURE = True
